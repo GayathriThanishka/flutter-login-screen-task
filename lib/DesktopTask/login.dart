@@ -346,7 +346,7 @@ class _DesktopLoginState extends State<DesktopLogin> {
                         child: Divider(
                           endIndent: 20,
                           color: Colors.black,
-                          height: 35,
+                          height: 36,
 
                         ),
                       ),
